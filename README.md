@@ -6,7 +6,7 @@
 ## The outline of this overview
 ### ![RUNOOB 图标](tcw111.png)
 
-### cite 
+### If you cite this paper, please refer to the following formats: 
 #### 1.Tian C, Fei L, Zheng W, et al. Deep Learning on Image Denoising: An overview[J]. arXiv preprint arXiv:1912.13171, 2019.
 
 #### 2. @article{tian2019deep,
