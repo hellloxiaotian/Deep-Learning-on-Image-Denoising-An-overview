@@ -1,4 +1,4 @@
-# Deep-Learning-on-Image-Denoising-An-overview is conducted by Chunwei Tian, Lunke Fei, Wenxian Zhang, Yong Xu, Wangmeng Zuo and Chia-Wen Lin and it is available at https://arxiv.org/abs/1912.13171 .
+# Deep-Learning-on-Image-Denoising-An-overview is conducted by Chunwei Tian, Lunke Fei, Wenxian Zhang, Yong Xu, Wangmeng Zuo and Chia-Wen Lin and it is available at https://arxiv.org/abs/1912.13171.
 
 ## It is reported by wechat public accounts at https://mp.weixin.qq.com/s/aaaaG5LkyWcJ9dhZ74Cp6A, https://mp.weixin.qq.com/s/nmKWJPbedGo1J8-oeIKm2w and https://mp.weixin.qq.com/s/hPaJssohwTIPx6kzGvp70g.
 
