@@ -51,7 +51,6 @@
 ## PSNR (dB) for different methods on the CBSD68, Kodak24 and McMaster for different noise levels (i.e., 15, 25, 35, 50 and 75)
 ### ![RUNOOB 图标](表13.jpg)
 
-
 ## Running time of 12 popular denoising methods for the noisy image of sizes 256x256, 512x512 and 1024x1024.
 ### ![RUNOOB 图标](表14.jpg)
 
@@ -73,7 +72,6 @@
 ## Average PSNR (dB) results of different methods on Set12 with noise levels of 25 and 50.
 ### ![RUNOOB 图标](表20.jpg)
 
-
 ## Different methods on the VggFace12 and WebFace for image denoising
 ### ![RUNOOB 图标](表21.jpg)
 
@@ -88,7 +86,7 @@
 ### ![RUNOOB 图标](图9.jpg)
 
 ## Denoising results of different methods on one image from the MaMaster with noise level of 50: (a) original image, (b) noisy image/14.58dB, (c) DnCNN/25.80dB, (d) FFDNet/26.13dB, (e) IRCNN/26.10B, and (f) BRDNet/26.33dB. 
-### ![RUNOOB 图标](图9.jpg)
+### ![RUNOOB 图标](图10.jpg)
 
 ### If you cite this paper, please refer to the following formats: 
 #### 1.Tian C, Fei L, Zheng W, et al. Deep Learning on Image Denoising: An overview[J]. arXiv preprint arXiv:1912.13171, 2019.
