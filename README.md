@@ -89,11 +89,14 @@
 ### ![RUNOOB 图标](图10.jpg)
 
 ### If you cite this paper, please refer to the following formats: 
-#### 1.Tian C, Fei L, Zheng W, et al. Deep Learning on Image Denoising: An overview[J]. arXiv preprint arXiv:1912.13171, 2019.
+#### 1.Tian C, Fei L, Zheng W, et al. Deep Learning on Image Denoising: An overview[J]. Neural Networks, 2020, 131,251-275.
 
-#### 2. @article{tian2019deep,
+#### 2. @article{tian2020deep,
 ####    title={Deep Learning on Image Denoising: An overview},
 ####    author={Tian, Chunwei and Fei, Lunke and Zheng, Wenxian and Xu, Yong and Zuo, Wangmeng and Lin, Chia-Wen},
-####    journal={arXiv preprint arXiv:1912.13171},
-####    year={2019}
+####    journal={Neural Networks},
+####    volume={131},
+####    pages={251-275},
+####    year={2020},
+####    publisher={Elsevier}
 ####    }
