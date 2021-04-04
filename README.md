@@ -91,6 +91,15 @@
 ## Denoising results of different methods on one image from the MaMaster with noise level of 50: (a) original image, (b) noisy image/14.58dB, (c) DnCNN/25.80dB, (d) FFDNet/26.13dB, (e) IRCNN/26.10B, and (f) BRDNet/26.33dB. 
 ### ![RUNOOB 图标](图10.jpg)
 
+### Some popular denoiser based deep CNNs are shown as follows. 
+
+### DnCNN can  be obtained at https://github.com/cszn/DnCNN.
+### FFDNet can be obtained at https://github.com/cszn/FFDNet.
+### IRCNN can be obtained at https://github.com/cszn/IRCNN.
+### BRDNet can be obtained at https://github.com/hellloxiaotian/BRDNet.
+### ADNet can be obtained at https://github.com/hellloxiaotian/ADNet.
+### DudeNet can be obtained at https://github.com/hellloxiaotian/DudeNet.
+
 ### If you cite this paper, please refer to the following formats: 
 #### 1.Tian C, Fei L, Zheng W, et al. Deep Learning on Image Denoising: An overview[J]. Neural Networks, 2020, 131,251-275.
 
